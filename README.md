@@ -1,3 +1,3 @@
 # release-note-tests
 
-This is a random text: asdasdasd
+This is a random text: Hola hola!

@@ -5,12 +5,15 @@ changelog:
     authors:
       - octocat
   categories:
-    - title: Exciting New Features 🎉
+    - title: New features 🎉
       labels:
         - enhancement
+    - title: Breaking changes ⚠️
+      labels:
+        - breaking
     - title: Bugfixes 🐛
       labels:
         - bug
-    - title: Other Changes
+    - title: Other Changes 
       labels:
         - "*"
